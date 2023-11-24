@@ -1,7 +1,7 @@
 // Online Javascript Editor for free
 // Write, Edit and Run your Javascript code using JS Online Compiler
 
-// Function to simulate getting butter
+
 function getButter() {
     return new Promise((resolve, reject) => {
       setTimeout(() => {
@@ -31,6 +31,6 @@ function getButter() {
     }
   }
   
-  
+
   getButterAndColdDrinks();
   
